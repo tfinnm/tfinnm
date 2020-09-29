@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm Toby McDonald, a 16 year old american software developer.
+I'm Toby McDonald, a 16 year old american software developer. I work primarily in Java and PHP doing primarily DevOps and database front ends. While the majority of my projects never make it off of being a local repo, and even more are uploaded as private repos, but I've made a few public either to share them with specific othe groups of people or if I think it could be useful to others.
 
 ## Projects:
 ### Cache Bot
